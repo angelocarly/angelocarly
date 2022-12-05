@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @angelocarly
-- Passionate in Computer Graphics / Linux / Open-source
+- Passionate about Computer Graphics / Linux / Open-source / Generative Art
