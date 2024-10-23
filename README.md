@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @angelocarly
-- Passionate about Computer Graphics / Linux / Open-source / Generative Art
+- Heya, I’m Nellie! 🏳️‍🌈
 
-I create algorithmic art, feel free to connect!
+Passionate about Computer Graphics / Linux / Open-source / Creative Coding / Algorithmic Art
+
+Feel free to connect through my socials:
 - https://www.instagram.com/Dodecatatonic
+- Discord: magnias
 - https://nel.re
